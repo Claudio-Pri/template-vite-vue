@@ -39,6 +39,7 @@ import AppHeader from './components/AppHeader.vue';
 </template>
 
 <style lang="scss" scoped>
+// npm install -g sass
 // @use 'assets/scss/main.scss' as *;
 // @use 'assets/scss/variables.scss' as *;
 
