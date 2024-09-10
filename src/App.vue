@@ -38,6 +38,8 @@ import AppHeader from './components/AppHeader.vue';
   </div>
 </template>
 
-<style scoped>
+<style lang="scss" scoped>
+// @use 'assets/scss/main.scss' as *;
+// @use 'assets/scss/variables.scss' as *;
 
 </style>
